@@ -8,3 +8,4 @@
 $$
 \hat y = \omega \cdot x+b
 $$
+![](http://latex.codecogs.com/gif.latex?\\hat y = \omega \cdot x+b
